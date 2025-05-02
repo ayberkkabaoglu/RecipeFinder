@@ -24,3 +24,10 @@ RecipeFinder is a web application designed to help users discover and explore re
 -**Linting:** ESLint for code quality
 
 -**Build Tool:** Vite
+
+## ⚙️ Setup
+To run the project locally, follow these steps:
+
+**1. Clone the Repository**
+``` git clone https://github.com/ayberkkabaoglu/recipefinder.git
+cd recipefinder ```
