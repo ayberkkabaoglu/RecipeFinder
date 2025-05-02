@@ -4,7 +4,7 @@ RecipeFinder is a web application designed to help users discover and explore re
 ## 🚀 Features
 **Search Recipes:** Search for recipes by ingredients.
 
-**Recipe Details:** View detailed instructions, ingredients, and nutritional information for each recipe.
+**Recipe Details:** For each recipe, view cooking videos, cuisine origin (e.g., Italian, Mexican), and nutritional information.
 
 **Save Recipes:** Save your favorite recipes for easy access later.
 
