@@ -28,7 +28,7 @@ RecipeFinder is a web application designed to help users discover and explore re
 ## ⚙️ Setup
 To run the project locally, follow these steps:
 
-###1. Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/ayberkkabaoglu/recipefinder.git
 cd recipefinder
