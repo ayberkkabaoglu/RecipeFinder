@@ -1,7 +1,6 @@
 ## RecipeFinder
 
-RecipeFinder is a web application designed to help users discover and explore recipes based on ingredients they have at home. It allows users to input a list of ingredients and find a variety of recipes they can make with those ingredients.
-
+RecipeFinder is a web application designed to help users discover and explore recipes based on a specific ingredient they have at home. Users can search for recipes by entering a single ingredient (e.g., "beef") and find a variety of recipes that use that ingredient. Additionally, users can view YouTube videos showing how to prepare each recipe.
 ## 🚀 Features
 **Search Recipes:** Search for recipes by ingredients.
 
