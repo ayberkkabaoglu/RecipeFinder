@@ -1,4 +1,4 @@
-## RecipeFinder
+#### RecipeFinder
 
 RecipeFinder is a web application designed to help users discover and explore recipes based on a specific ingredient they have at home. Users can search for recipes by entering an ingredient (e.g., "beef") and find a variety of recipes that use that ingredient. Additionally, users can view YouTube videos showing how to prepare each recipe.
 ## 🚀 Features
@@ -28,9 +28,16 @@ RecipeFinder is a web application designed to help users discover and explore re
 ## ⚙️ Setup
 To run the project locally, follow these steps:
 
-**1. Clone the Repository**
+###1. Clone the Repository
 ```bash
 git clone https://github.com/ayberkkabaoglu/recipefinder.git
 cd recipefinder
 ```
-
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Run the Development Server
+```bash
+npm run dev
+```
